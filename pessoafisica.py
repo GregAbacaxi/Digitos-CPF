@@ -52,3 +52,5 @@ cpf = str(cpf1 + '.' + cpf2 + '.' + cpf3 + '-' + cpf4)
 print('-=*=' * 14 + '-')
 print('>> CPF com dígitos de verificação: \033[1;32m{}\033[0;0m'.format(cpf))
 print('-=*=' * 14 + '-')
+
+#Teste
